@@ -1,0 +1,36 @@
+
+.bar.total rect {
+  fill: #0076ff;
+}
+
+.bar.positive rect {
+  fill: black;
+}
+.bar.negative rect {
+  fill: #c8dc00;
+}
+
+.bar line.connector {
+  stroke: grey;
+}
+
+.bar text {
+  fill: white;
+  font: 12px sans-serif;
+  text-anchor: middle;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.tick line {
+  stroke: #c7c7c7;
+}
