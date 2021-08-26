@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Energy and Fuels",
+    "baseline": 21572,
+    "target": 10795
+  },
+  {
+    "name": "Industry",
+    "baseline": 16387,
+    "target": 10000
+  },
+  {
+    "name": "Land Use",
+    "baseline": 7427,
+    "target": 3382
+  },
+  {
+    "name": "Building Construction and Heating",
+    "baseline": 6780,
+    "target": 4162
+  },
+  {
+    "name": "Transport",
+    "baseline": 9006,
+    "target": 7306
+  },
+  {
+    "name": "Negative Emission Solutions",
+    "baseline": 3849,
+    "target": 10631
+  }
+]

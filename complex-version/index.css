@@ -1,0 +1,28 @@
+line.connector {
+  stroke: #808080;
+  stroke-dasharray: 3;
+  stroke-width: 0.5;
+}
+
+.top-line {
+  stroke: #808080;
+  stroke-width: 1;
+}
+
+text {
+  fill: white;
+  font: 12px sans-serif;
+  text-anchor: middle;
+}
+
+.axis text {
+  font: 10px sans-serif;
+  fill: black;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
